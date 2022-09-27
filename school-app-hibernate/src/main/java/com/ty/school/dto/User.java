@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Table(name ="school_app_hibernate")
+@Table(name ="school_app_User_hibernate")
 @Entity
 public class User {
 
